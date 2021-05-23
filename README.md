@@ -1,1 +1,1 @@
-# Hangman
+A game of hangman developed in Ruby. It randomly selects a word from a word list and has a rudimentary save and load feature.
